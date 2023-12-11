@@ -21,8 +21,6 @@ Key Features:
 _________________
 
 ![app(3)](https://github.com/Wondamonstaa/ReelRift/assets/113752537/aab310a0-7009-41e5-8698-23d2ae575b2b)
-<img width="480" alt="Screenshot 2023-12-11 at 2 45 43 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/9332d85b-bf3d-4a3b-8662-bf9308be2d94">
-<img width="516" alt="Screenshot 2023-12-11 at 2 46 09 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/8eaa4c3a-346e-4a83-887d-6a90b8f1d0ec">
 
 _________________
 
