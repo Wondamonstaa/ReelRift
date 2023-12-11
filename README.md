@@ -6,6 +6,14 @@ Key Features:
 
 1. Cinematic Curation: Immerse yourself in a meticulously curated collection of movies, handpicked for their artistic brilliance, storytelling mastery, and cultural impact. ReelRift sifts through the cinematic landscape to bring you a diverse selection of films that transcend genres and eras.
 
+# Sample output:
+
+_________________
+
+<img width="480" alt="Screenshot 2023-12-11 at 2 45 43 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/b0fedc99-a996-4f6e-9955-0fb29e4e925f">
+
+_________________
+
 2. IMDB Integration: Experience the power of IMDB seamlessly integrated into ReelRift. Dive into comprehensive movie details, ratings, and reviews directly from the industry's most trusted source. Stay informed and make informed decisions about your next cinematic adventure.
 
 3. Personalized Recommendations: Uncover hidden gems tailored to your unique taste. ReelRift utilizes advanced algorithms to analyze your viewing preferences and suggests movies that resonate with your cinematic palate. Say goodbye to endless scrolling and embrace a personalized movie-watching journey.
