@@ -16,17 +16,17 @@ Key Features:
 
 1. Cinematic Curation: Immerse yourself in a meticulously curated collection of movies, handpicked for their artistic brilliance, storytelling mastery, and cultural impact. ReelRift sifts through the cinematic landscape to bring you a diverse selection of films that transcend genres and eras.
 
-# Simulation using iPhone 14 Pro Max:
+# Simulation using iPhone 14 Pro Max
 
 _________________
 
-![app](https://github.com/Wondamonstaa/ReelRift/assets/113752537/2ea9ad3a-11b4-4352-a060-e5fab7572047)
+![app(3)](https://github.com/Wondamonstaa/ReelRift/assets/113752537/aab310a0-7009-41e5-8698-23d2ae575b2b)
 
 _________________
 
 2. IMDB Integration: Experience the power of IMDB seamlessly integrated into ReelRift. Dive into comprehensive movie details, ratings, and reviews directly from the industry's most trusted source. Stay informed and make informed decisions about your next cinematic adventure.
 
-#Sample Output
+# Sample Output
 _________________
 
 <img width="480" alt="Screenshot 2023-12-11 at 2 45 43 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/9332d85b-bf3d-4a3b-8662-bf9308be2d94">
@@ -36,7 +36,7 @@ _________________
 
 3. Personalized Recommendations: Uncover hidden gems tailored to your unique taste. ReelRift utilizes advanced algorithms to analyze your viewing preferences and suggests movies that resonate with your cinematic palate. Say goodbye to endless scrolling and embrace a personalized movie-watching journey.
 
-#Sample Output
+# Sample Output
 _________________
 
 <img width="486" alt="Screenshot 2023-12-11 at 2 46 41 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/88c91acd-719d-4acf-8fb0-5058691e3a20">
