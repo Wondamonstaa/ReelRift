@@ -4,6 +4,7 @@
 ### Author: Kiryl Baravikou
 
 ---
+---
 
 
 Welcome to ReelRift, your gateway to cinematic brilliance and the ultimate IMDB Movie Maven!
