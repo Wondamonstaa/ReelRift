@@ -20,7 +20,7 @@ Key Features:
 
 _________________
 
-![]
+             
 ![app(3)](https://github.com/Wondamonstaa/ReelRift/assets/113752537/aab310a0-7009-41e5-8698-23d2ae575b2b)
 
 _________________
