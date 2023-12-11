@@ -37,7 +37,7 @@ _________________
 _________________
 
 <img width="486" alt="Screenshot 2023-12-11 at 2 46 41 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/88c91acd-719d-4acf-8fb0-5058691e3a20">
-<img width="516" alt="Screenshot 2023-12-11 at 2 46 09 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/8eaa4c3a-346e-4a83-887d-6a90b8f1d0ec">
+<img width="480" alt="Screenshot 2023-12-11 at 2 45 43 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/9332d85b-bf3d-4a3b-8662-bf9308be2d94">
 
 _________________
 
