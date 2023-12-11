@@ -5,10 +5,6 @@ Project 3: Movies App
 Course: CS 378
 Date: 11/15/2023
 Professor: Ugo Buy
-
-Dear TA, just like in the previous project, for this one I had to use
-iPhone 14 Pro Max as the emulator due to incompatibility of my machine with
-the Pixel 5 emulator. Thank you for understanding!
 */
 
 import 'package:flutter/gestures.dart';
