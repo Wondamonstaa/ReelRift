@@ -37,6 +37,7 @@ _________________
 _________________
 
 <img width="486" alt="Screenshot 2023-12-11 at 2 46 41 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/88c91acd-719d-4acf-8fb0-5058691e3a20">
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-12-11 at 14 44 20](https://github.com/Wondamonstaa/ReelRift/assets/113752537/3e71f237-208b-4967-b095-0b474fe86b31)
 
 _________________
 
