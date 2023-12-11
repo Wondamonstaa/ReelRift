@@ -3,6 +3,8 @@
 ### Date: November 2023
 ### Author: Kiryl Baravikou
 
+
+
 Welcome to ReelRift, your gateway to cinematic brilliance and the ultimate IMDB Movie Maven!
 
 In a world overflowing with cinematic treasures, ReelRift stands as the nexus where movie aficionados and storytelling enthusiasts converge to explore, discover, and celebrate the magic of film.
