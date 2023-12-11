@@ -17,7 +17,7 @@ Key Features:
 
 _________________
 
-![app](https://github.com/Wondamonstaa/ReelRift/assets/113752537/25ba54b4-d059-4728-92c2-a20ff61b0b05)
+![app(1)](https://github.com/Wondamonstaa/ReelRift/assets/113752537/53c85a90-7fe3-4ff2-8d7f-ef2cd82ef20b)
 
 _________________
 
@@ -37,7 +37,7 @@ _________________
 _________________
 
 <img width="486" alt="Screenshot 2023-12-11 at 2 46 41 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/88c91acd-719d-4acf-8fb0-5058691e3a20">
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-12-11 at 14 44 20](https://github.com/Wondamonstaa/ReelRift/assets/113752537/3e71f237-208b-4967-b095-0b474fe86b31)
+<img width="480" alt="Screenshot 2023-12-11 at 2 45 43 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/00c5b1e2-49e8-4e01-9ecf-ce502a7e85d8">
 
 _________________
 
